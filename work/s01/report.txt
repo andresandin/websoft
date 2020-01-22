@@ -1,0 +1,4 @@
+Did you before know about the techniques Git, GitHub, Markdown and/or GitHub Pages?
+Have you ever created websites before?
+Briefly explain your experience and knowledge of web application development.
+What is your TIL for this course section?
