@@ -2,3 +2,20 @@ Did you before know about the techniques Git, GitHub, Markdown and/or GitHub Pag
 Have you ever created websites before?
 Briefly explain your experience and knowledge of web application development.
 What is your TIL for this course section?
+
+I've worked with guthub before in earlier projects.
+I haven't worked with markdown before.
+The only thing with git i've worked with is the github webpage, git bash and github desktop.
+This is the first time working with websites, very exciting.
+I don't have very much experience when it comes to web application development.
+I've always wanted to learn how to create web applications.
+I'm looking forward to learn more about developing web applications.
+My experience with git has been very basic before.
+I've updated my memory when it comes to git thanks to Mikael.
+Today I learned a lot more about github that I didn't know before.
+Today I learned how to fork a repo.
+Today I learned what kind of texteditor I need to use for this course.
+Today I learned how to setup a website using github.
+Today I learned how to attach a tag to my work.
+I'm very excited to learn more from this course.
+This course will be fun.
