@@ -10,3 +10,9 @@ body {
     background: #fff;
     width: 700px;
 }
+.me {
+    background-color: darkgreen;
+    margin: 8px auto;
+    width: 700px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
