@@ -5,11 +5,6 @@ html {
     overflow-y: scroll;
 }
 
-body {
-    margin: 8px auto;
-    background: #fff;
-    width: 700px;
-}
 .me {
     background-color: darkgreen;
     margin: 8px auto;
