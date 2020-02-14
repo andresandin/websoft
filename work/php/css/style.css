@@ -24,6 +24,14 @@ h1{
     margin: 20px;
 }
 
+h2{
+    background-color: seagreen;
+    width: 400px;
+    border: 15px slateblue;
+    padding: 5px;
+    margin: 20px;
+}
+
 .me {
     background-color: darkgreen;
     margin: 8px auto;
@@ -64,11 +72,17 @@ a:active {
     position: absolute;
     top: 20px;
     left: 20px;
+
+
 }
 
-.school {
-    background-color: green;
-    margin: 8px auto;
-    width: 700px;
-    font-family: Arial, Helvetica, sans-serif;
+.button {
+    display: inline-block;
+    border: none;
+    background: sienna;
+    color: snow;
+    padding: 0.75rem 1.5rem;
+    margin-top: 1rem;
+    transition: opacity 0.3s ease-in-out;
+    text-decoration: none;
 }

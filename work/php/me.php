@@ -1,29 +1,6 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>Presentation of my self in the course XXX</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="favicon.ico">
-</head>
-
-
-<!--
-Comments are written as HTML style.
--->
-
-<body class="me">
-<header>
-    <nav>
-        <a href="me.html">Me</a> |
-        <a href="report.html">Report</a> |  
-        <a href="about.html">About</a> |
-        <a href="schools.html">Schools</a> |
-        <a href="flag.html">Flags</a>
-    </nav>
-</header>
-
-
+<?php 
+$pageTitle = "Me";
+require __DIR__ . "/view/header.php"; ?>
 
 <article>
 
@@ -52,12 +29,4 @@ Comments are written as HTML style.
 
 </article>
 
-<footer>
-    <hr>
-    <p><img src="img/hkr.jpg" width="500" alt="HTMLJSSJS"></p>
-</footer>
-
-<div id="duck" class="duck"></div>
-<script type="text/javascript" src="js/duck.js"></script>
-</body>
-</html>
+<?php require __DIR__ . "/view/footer.php"; ?>
