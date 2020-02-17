@@ -18,9 +18,9 @@ nav {
 
 h1{
     background-color: seagreen;
-    width: 300px;
+    width: 350px;
     border: 15px slateblue;
-    padding: 50px;
+    padding: 20px;
     margin: 20px;
 }
 
@@ -33,6 +33,13 @@ h1{
 
 .report {
     background-color: darkorange;
+    margin: 8px auto;
+    width: 700px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.lotto {
+    background-color: chartreuse;
     margin: 8px auto;
     width: 700px;
     font-family: Georgia, 'Times New Roman', Times, serif;

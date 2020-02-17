@@ -28,6 +28,4 @@ function generate(size, lowest, highest) {
   
 	document.getElementById("numbers").innerHTML = numbers.join(" - ");
 
-	console.log("yeu");
-	console.log(numbers);
 }
