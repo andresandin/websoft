@@ -224,16 +224,23 @@ It was pretty hard to find information about this platform but fortunately the e
     from your own experience, 
 related to web application security and relate them to the OWASP top ten.</p>
 <p>
+I don't have a lot of experience when it comes to different security issues or concerns. When I was younger someone tried to 
+hack my email-account but that's pretty much it. After reading about OWASP Top Ten I would say that Security Misconfiguration might be one
+that fits me, my strength isn't security when I develop something. Sensitive Data Exposure is another concern. You don't
+want your data to be exposed for everyone. 
+Broken Authentication is another concern. I wouldn't want an attacker to get my password or other information about me.
 
 </p>
 <p>Summarize by providing your own guidelines to a new web programmer on the topic
     "The essential guidelines to follow to create secure web applications".</p>
 <p>
+Some guidelines to a new web programmer could be to implement proper logging. Another one is to follow the OWASP Top Ten. 
+Take the time to think about the security for the web application, what suits your application. Encrypt everything.
 
 </p>
 <p>What is your TIL for this course section?</p>
 <p>
-
+I've learned about the top ten application security risks from OWASP.
 </p>
 </section>
 
