@@ -206,12 +206,35 @@ It was pretty hard to find information about this platform but fortunately the e
 
 <section>
 <h2>S08</h2>
-<p>Here is the text for this section.</p>
+<p>Myself and Hashim Veseli decided to analyze three equal social media websites to be able to see how they differ and which one stands out and why. We chose these three social media giants because they are very popular and we feel like they need to have high performance. It will be interesting comparing the performance of these three websites. </p>
+<p>Devtool Network tab analysis can be found <a href="https://docs.google.com/document/d/1FYnfV1c1aMznVcffMicaet_SPyzsbMhyrDhK_ipEdAA/edit?usp=sharing">here</a>!<br />
+<p>PageSight Analysis of the three social media giants Facebook, Instagram and Twitter, you find <a href="https://docs.google.com/document/d/1ZjiEpW-DaVZZ6rMs-1BMzeSaQNKlLGZ3zBcatoI9Ajs/edit?usp=sharing">here</a>!<br />
+<strong>Summary:</strong> Instagram.com gets the best performance score where basically the only downside is the formats of the pictures need to be more modern. </p>
+<p>LightHouse Analysis of Facebook you find <a href="https://docs.google.com/document/d/1Vpi67_nioqfvWtB969oaECapwtar58bMvzglE9I1KD4/edit?usp=sharing">here</a>!<br />
+<strong>Summary:</strong> Facebook.com has the worst performance of the three. We can see that time for the page to become fully interactive is almost 1 minute! Slow speed index and first CPU idle. Could save a lot of time if images and formats are fixed along with minimizing main thread. The page is not fast enough for mobile networks and does not provide a response 200 when page is offline. </p>
+<p>LightHouse Analysis of Instagram you find <a href="https://docs.google.com/document/d/1xdQt2hFCo2WIVe8u4_W-_ghCfXwQklLSnVh9lweK0ic/edit?usp=sharing">here</a>!<br />
+<strong>Summary:</strong> So, Instagram.com has a fast and reliable page load on mobile networks but does not provide a respond with a 200 when a page is offline. Also it does not provide any fallback content when JavaScript is not available and could save some performance time if it efficiently could encode images and serve images in next-gen formats. Also, reducing the impact of third party code and minimizing main-thread work would increase performance. </p>
+<p>LightHouse Analysis of Twitter you find <a href="https://docs.google.com/document/d/1V1nC9_TrflQ2Lb1kIiJrkmgwCoQQvUq7zRmn27yskuU/edit?usp=sharing">here</a>!<br />
+<strong>Summary:</strong> As we can see with Twitter.com, the page load is not fast enough on mobile networks. The page load is too slow and not interactive within 10 seconds mosly because of overload on the main thread and on the JavaScript execution time. That is the main reason the performance is bad on this website. Then there are other aspects as reducing the impact of third party code and avoiding enormous network payloads. </p>
 </section>
 
 <section>
 <h2>S09</h2>
-<p>Here is the text for this section.</p>
+<p>Elaborate on a few (3-5) different security issuses or concerns, 
+    from your own experience, 
+related to web application security and relate them to the OWASP top ten.</p>
+<p>
+
+</p>
+<p>Summarize by providing your own guidelines to a new web programmer on the topic
+    "The essential guidelines to follow to create secure web applications".</p>
+<p>
+
+</p>
+<p>What is your TIL for this course section?</p>
+<p>
+
+</p>
 </section>
 
 <section>
