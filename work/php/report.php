@@ -180,19 +180,27 @@ didn't know by how much before.
 <h2>S07</h2>
 <p>Try to explain the platform .NET (#C, ASP.NET) to a skilled programmer, but newbie to this Microsoft technology.</p>
 <p>
-
+.NET is a framework for building and running many different applications. You can build for example consoleapplications and webapplications.
+C# is a programming language which is object-oriented. C# is a part of .NET so its used alongside languages like ASP in web development.
+ASP.NET works on top of the HTTP protocol.
 </p>
 <p>Elaborate by comparing .NET technologies with the other technologies we learned during the course.</p>
 <p>
+.NET is the hardest one of the technologies we have been using during this course. It's very complex and there is a lot to learn about it.
 
 </p>
 <p>Describe how you took on the coding exercise, what grade did you aim for and are you satisfied with the result?</p>
 <p>
-
+I started by watching most of the video series linked on canvas. I started by doing the webapplication because
+it seemed to me that it was the hardest one. I watched your videos on youtube and later on managed to complete that part of the exercise.
+I finished by doing the consoleapplication. I aimed for grade 3 due to lack of time. Im satisifed that I manage to get it done but if there was more time
+I would aim for a higher grade.
 </p>
 <p>What is your TIL for this course section?</p>
 <p>
-    
+I learned how the basics works for .NET/ASP.NET. 
+I learned how to create new projects with ASP.NET.
+It was pretty hard to find information about this platform but fortunately the examples helped me a lot. 
 </p>
 </section>
 
