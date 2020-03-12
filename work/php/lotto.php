@@ -1,5 +1,6 @@
 <?php
 $pageTitle = "Lotto";
+$headerTitle = "Lotto";
 require __DIR__ . "/view/header.php";
 
 

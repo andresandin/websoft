@@ -5,70 +5,70 @@ html {
     overflow-y: scroll;
 }
 
+p{
+    color: white;
+}
+
 nav {
     font-style: italic;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
 
-.about {
-    background-color: darkmagenta;
-    margin: 8px auto;
-    width: 700px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+li {
+    float: left;
 }
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
 
 h1{
-    background-color: seagreen;
-    width: 300px;
+    background-image: url(https://chiprewards.com/wp-content/uploads/2017/10/header-background-1.jpg);
+    width: auto;
+    text-align: center;
     border: 15px slateblue;
     padding: 50px;
     margin: 20px;
+    color: lightgoldenrodyellow;
 }
 
 h2{
-    background-color: seagreen;
-    width: 400px;
+    background-color: lightblue;
+    width: 40px;
     border: 15px slateblue;
     padding: 5px;
     margin: 20px;
+    
 }
 
-.me {
-    background-color: darkgreen;
-    margin: 8px auto;
-    width: 700px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
+.backg {
+    background-image: linear-gradient(to right, black , darkgray);
+        
+        margin: 8px auto;
+        width: 700px;
+        
+      }
 
-.report {
-    background-color: darkorange;
-    margin: 8px auto;
-    width: 700px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-a:link {
-    color: black;
-}
-
-a:visited {
-    color: black;
-}
-
-a:hover {
-    color: blueviolet;
-}
-
-a:active {
-    color: cornflowerblue;
+li a:hover {
+    background-color: #111;
 }
 
 .duck {
 
-    width: 128px;
-    height: 128px;
+    width: 64px;
+    height: 64px;
     border: 1px solid black;
     background-image: url(../img/pens.png);
-    background-size: 128px;
+    background-size: 64px;
     position: absolute;
     top: 20px;
     left: 20px;
@@ -86,3 +86,90 @@ a:active {
     transition: opacity 0.3s ease-in-out;
     text-decoration: none;
 }
+
+#mytable {
+    border: 1px solid;
+}
+
+.flag {
+    position: relative;
+    width: 300px;
+    height: 200px;
+}
+
+.flags {
+    background-color: darkgray;
+    margin: 8px auto;
+    width: 700px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.elfenbenskusten {
+    background-color: #fff;
+}
+
+.elfenbenskusten .part1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 200px;
+    background-color: #f77f00;
+}
+
+.elfenbenskusten .part2 {
+    position: absolute;
+    top: 0;
+    left: 200px;
+    width: 100px;
+    height: 200px;
+    background-color: #009e60;
+}
+
+.france {
+    background-color: #fff;
+}
+
+.france .part1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 200px;
+    background-color: blue;
+}
+
+.france .part2 {
+    position: absolute;
+    top: 0;
+    left: 200px;
+    width: 100px;
+    height: 200px;
+    background-color: red;
+}
+
+.italy {
+    background-color: #fff;
+}
+
+.italy .part1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 200px;
+    background-color:green;
+}
+
+.italy .part2 {
+    position: absolute;
+    top: 0;
+    left: 200px;
+    width: 100px;
+    height: 200px;
+    background-color: red;
+}
+
+
+

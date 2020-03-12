@@ -1,6 +1,6 @@
 <footer>
     <hr>
-    <p><img src="img/hkr.jpg" width="500" alt="HTMLJSSJS"></p>
+    <p><img src="img/hkrlogo.png" width="500" alt="HTMLJSSJS"></p>
 </footer>
 
 

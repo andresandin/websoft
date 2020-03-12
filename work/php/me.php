@@ -1,12 +1,11 @@
 <?php 
 $pageTitle = "Me";
+$headerTitle ="Information about me";
 require __DIR__ . "/view/header.php"; ?>
 
 <article>
 
-<h1>Information about me </h1>
-
-<p><img src="img/malvakt.png" width="500" alt="Me on an image"></p>
+<p style="text-align:center"><img src="img/malvakt.png" width="500" alignment="middle" alt="Me on an image"></p>
 
 <p>This page contains a presentation of myself.</p>
 
@@ -28,5 +27,5 @@ require __DIR__ . "/view/header.php"; ?>
 <p>That was a short presentation about me.</p>
 
 </article>
-
+<?php require __DIR__ . "/view/movingDuck.php"; ?>
 <?php require __DIR__ . "/view/footer.php"; ?>

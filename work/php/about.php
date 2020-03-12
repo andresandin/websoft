@@ -1,12 +1,11 @@
 <?php 
 $pageTitle = "About";
+$headerTitle = "About";
 require __DIR__ . "/view/header.php"; ?>
 
 
 
 <article>
-
-<h1>About</h1>
 
 <p>This website is part of the course 
     <a href="https://www.hkr.se/en/course/da377a/course-syllabus">Software Development for the Web</a>.</p>
@@ -20,4 +19,5 @@ require __DIR__ . "/view/header.php"; ?>
 
 </article>
 
+<?php require __DIR__ . "/view/movingDuck.php"; ?>
 <?php require __DIR__ . "/view/footer.php"; ?>

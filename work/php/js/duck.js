@@ -10,7 +10,7 @@
     });
 
     element.addEventListener("mouseover", function () {
-        element.style.left = element.offsetLeft + 20 + "px"; 
+        element.style.top = element.offsetTop + 10 + "px"; 
         console.log(element.style.left);
         console.log(element.offsetLeft);
         console.log("Mouse over");
